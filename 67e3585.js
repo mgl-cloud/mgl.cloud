@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{610:function(e,n,t){"use strict";t.r(n);var l={components:{mglAudioPlayer:t(234).a},layout:"DashboardLayout"},o=t(7),component=Object(o.a)(l,(function(){var e=this.$createElement,n=this._self._c||e;return n("div",[n("mgl-audio-player")],1)}),[],!1,null,null,null);n.default=component.exports}}]);
